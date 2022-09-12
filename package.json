@@ -1,6 +1,6 @@
 {
   "name": "movie-app",
-  "homepage": "https://lukakavtarra.github.io/Movies-App/",
+  "homepage": "http://lukakavtarra.github.io/Movies-App/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
