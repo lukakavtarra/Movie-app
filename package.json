@@ -1,6 +1,6 @@
 {
   "name": "movie-app",
-  "homepage": "https://lukakavtarra.github.io/Movies-App/",
+  "homepage": "http://lukakavtarra.github.io/Movies-App/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,8 +16,8 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "node init && react-scripts start",
+    "build": "node init && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
